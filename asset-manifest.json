@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Front-End-Development-with-React/static/css/main.91befdd5.css",
+    "main.js": "/Front-End-Development-with-React/static/js/main.ef6962f7.js",
+    "index.html": "/Front-End-Development-with-React/index.html",
+    "main.91befdd5.css.map": "/Front-End-Development-with-React/static/css/main.91befdd5.css.map",
+    "main.ef6962f7.js.map": "/Front-End-Development-with-React/static/js/main.ef6962f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91befdd5.css",
+    "static/js/main.ef6962f7.js"
+  ]
+}
